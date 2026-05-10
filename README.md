@@ -55,3 +55,5 @@ Example comparison workflow:
 ## Purpose
 
 This project was created to understand the complete workflow of fine-tuning a conversational LLM, evaluating it with perplexity, and comparing its outputs against the original base model. It is useful for learning practical LLM fine-tuning, dataset preparation, training configuration, and model evaluation.
+
+The dataset can be taken from the conversations folder.
